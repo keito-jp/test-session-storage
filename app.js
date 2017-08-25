@@ -1,5 +1,3 @@
-let key = 0;
-
 document.addEventListener("DOMContentLoaded", function() {
   main();
 });
